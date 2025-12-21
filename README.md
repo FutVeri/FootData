@@ -1,48 +1,95 @@
-# 📊 FutData: Bringing Football Into the Data Era ⚽️  
+# 📊 FutData — Bringing Football Into the Data Era ⚽️
 
 > Football is no longer just played on the pitch – it’s also played **in the data**.  
 > That’s where **FutData** comes in. 🚀  
 
-FutData is a platform designed for **football clubs, scouts, and fans**, offering **simple yet powerful insights**.  
-Our mission is to help people **understand football better, predict future performances, and enjoy the game in a whole new way.** 🎯  
+**FutData** is a football analytics ecosystem designed for **clubs, scouts, analysts, and fans**.  
+Our mission is to help people **understand football better, predict future performances, and enjoy the game in a whole new way.**
 
 ---
 
-## 🌟 What FutData Offers  
+## 🌟 What FutData Offers
 
-- 📈 **Player Stats** → Who’s in form, who’s struggling?  
-- 🏟️ **Team Analysis** → Strengths, weaknesses, in-game data  
-- 🔮 **Predictions** → Match outcomes & player performance insights  
-- 🎮 **Fantasy Premier League (FPL) Tools** → Data-driven squad suggestions & decision support  
+- 📈 **Player Statistics**  
+  Track form, consistency, and performance trends.
 
-With **FutData**, clubs strengthen their strategies, while fans see the game from a whole new perspective.  
+- 🏟️ **Team Analysis**  
+  Tactical strengths, weaknesses, and match-based insights.
+
+- 🔮 **Predictions**  
+  Match outcomes & player performance forecasts powered by data.
+
+- 🎮 **Fantasy Premier League (FPL) Tools**  
+  Data-driven squad building, transfers, and decision support.
+
+With **FutData**, clubs improve their strategies, and fans see football from a deeper, analytical perspective.
 
 ---
 
-## 🚀 First Step: The FPL App  
+## 🚀 First Product: FutFPL (Fantasy Premier League App)
 
-📅 I launched our very first **FutData App**!  
+📅 The first official FutData product is live!
 
-🔹 Focused on **Fantasy Premier League**, the app provides:  
+### 🔹 FutFPL Features
 - ⚡ Smart squad recommendations  
-- 📊 Match previews & reviews  
-- 🎯 Data-driven decision support  
+- 📊 Match previews & post-match reviews  
+- 🎯 Data-driven FPL decision support  
 
-📖 Learn more in our Medium post 👉 [Read Here](https://medium.com/@emremert.developer/futveri-projesi-ab793e6ac464)  
-App Link(FutFPL)https://play.google.com/store/apps/details?id=com.futfpl.app&hl=tr
-FutFPL Next Big Upgrade December 2025
----
+📖 Medium Article:  
+👉 https://medium.com/@emremert.developer/futveri-projesi-ab793e6ac464  
 
-## 🌍 What’s Next?  
+📱 Google Play Store:  
+👉 https://play.google.com/store/apps/details?id=com.futfpl.app&hl=tr  
 
-FutData is more than just an app – it’s a **vision for the future of football**.  
-Coming soon:  
-
-- 🌐 **Web-based analytics platform**  
-- 🤖 **AI-powered scouting bots**  
-- 📊 **Club dashboards**  
-- 🙌 **Fan-focused interactive data apps**  
+🚀 **Next Major FutFPL Update:**  
+**December 2025**
 
 ---
 
-✨ **FutData is here to transform football into a data-driven experience for everyone – from professionals to fans.**  
+## 🆕 Product Update: FutVeri — Scouting & Player Intelligence Platform
+
+We are expanding FutData beyond fantasy football.
+
+### 🎯 What is FutVeri?
+**FutVeri** is a **professional scouting and player evaluation platform** built for:
+- Scouts
+- Analysts
+- Clubs
+- Football data professionals
+
+### 🔍 Key Capabilities
+- 🧠 Structured scouting & player evaluation workflows  
+- ✅ **Admin-approved player validation system**  
+- 🗄️ Centralized and verified **player database**  
+- 📊 Performance metrics & scouting reports  
+
+Only **admin-approved players** are transferred into the main database, ensuring:
+- High data quality  
+- Reliable insights  
+- Professional-level scouting standards  
+
+📅 **Release Date:**  
+🗓️ **January 15, 2026**
+
+FutVeri will serve as the **core infrastructure for modern, data-driven scouting operations**.
+
+---
+
+## 🌍 Roadmap & What’s Next
+
+FutData is more than a single app — it’s a long-term football data vision.
+
+Upcoming components include:
+- 🌐 Web-based analytics platform  
+- 🤖 AI-powered scouting bots  
+- 📊 Club dashboards & reporting tools  
+- 🙌 Fan-focused interactive data applications  
+
+---
+
+## ✨ Vision
+
+**FutData aims to transform football into a fully data-driven experience** —  
+from grassroots scouting to professional clubs, and from analysts to fans.
+
+Football belongs not only on the pitch, but also **in the data**. ⚽📊🚀
